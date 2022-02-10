@@ -3,7 +3,7 @@
    Copyright Jan.2022 Xin Wang
    IR code of buttons are stored in EEPROM(Arduino) or Flash(ESP32)!!
    It works together with "BlueRC" android app. You can download it from
-   my Github space:
+   my GitHub space:
    https://github.com/demutech/BlueRC-app
  *******************************************************************/
 

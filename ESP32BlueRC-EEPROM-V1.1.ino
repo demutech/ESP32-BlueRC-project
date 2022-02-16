@@ -5,7 +5,7 @@
    It works together with "BlueRC" android app. You can download it from
    my Github space (V1.1):
    https://github.com/demutech/BlueRC-app
-   - Status led added at port (13)
+   - Status blue led added at port 18(D13)
    - Send DHT11 data to app added
 *******************************************************************/
 
